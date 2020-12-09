@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("测试");
         System.out.println("测试");
         System.out.println("hello github");
+        System.out.println("hot fix");
     }
 }
